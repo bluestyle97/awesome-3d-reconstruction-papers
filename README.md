@@ -117,8 +117,8 @@ Table of Contents
 
 ### Multi-view
 
-| Paper                                                        | Representation | Publisher | Project/Code                                           |
-| ------------------------------------------------------------ | -------------- | --------- | ------------------------------------------------------ |
+|                            Paper                             | Representation | Publisher |                         Project/Code                         |
+| :----------------------------------------------------------: | :------------: | :-------: | :----------------------------------------------------------: |
 | [MARMVS: Matching Ambiguity Reduced Multiple View Stereo for Efficient Large Scale Scene Reconstruction](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_MARMVS_Matching_Ambiguity_Reduced_Multiple_View_Stereo_for_Efficient_Large_CVPR_2020_paper.html) | Point Cloud    | CVPR 2020 | /                                                      |
 | [Associative3D: Volumetric Reconstruction from Sparse Views](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600137.pdf) | Voxel          | ECCV 2020 | [[Project]](https://jasonqsy.github.io/Associative3D/) |
 | [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520409.pdf) | Mesh           | ECCV 2020 | [[Project]](http://zak.murez.com/atlas/)               |
