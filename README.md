@@ -12,6 +12,7 @@ Table of Contents
   * [Scene-level](#scene-level)
      * [Single-view](#single-view-1)
      * [Multi-view](#multi-view-1)
+  * [Survey](#survey)
 
 ## Object-level
 
@@ -114,7 +115,6 @@ Table of Contents
 | [Image-to-Voxel Model Translation for 3D Scene Reconstruction and Segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520103.pdf) |     Voxel      | ECCV 2020 |           [[Code]](https://github.com/vlkniaz/SSZ)           |
 | [Holistic 3D Scene Understanding from a Single Image with Implicit Representation](https://arxiv.org/abs/2103.06422) |    Implicit    | CVPR 2021 |  [[Project]](https://chengzhag.github.io/publication/im3d/)  |
 
-
 ### Multi-view
 
 |                            Paper                             | Representation | Publisher |                         Project/Code                         |
@@ -124,4 +124,8 @@ Table of Contents
 | [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520409.pdf) | Mesh           | ECCV 2020 | [[Project]](http://zak.murez.com/atlas/)               |
 | [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/abs/2104.00681) | Mesh           | CVPR 2021 | [[Project]](https://zju3dv.github.io/neuralrecon/)     |
 
+## Survey
 
+|                            Paper                             | Publisher  |
+| :--------------------------------------------------------------------: | :--------: |
+| [Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era](https://arxiv.org/abs/1906.06543) | TPAMI 2019 |
