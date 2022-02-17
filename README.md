@@ -12,6 +12,7 @@ Table of Contents
   * [Scene-level](#scene-level)
      * [Single-view](#single-view-1)
      * [Multi-view](#multi-view-1)
+  * [Surface-Reconstruction](#surface-reconstruction)
   * [Survey](#survey)
 
 ## Object-level
@@ -123,6 +124,40 @@ Table of Contents
 | [Associative3D: Volumetric Reconstruction from Sparse Views](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600137.pdf) | Voxel          | ECCV 2020 | [[Project]](https://jasonqsy.github.io/Associative3D/) |
 | [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520409.pdf) | Mesh           | ECCV 2020 | [[Project]](http://zak.murez.com/atlas/)               |
 | [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/abs/2104.00681) | Mesh           | CVPR 2021 | [[Project]](https://zju3dv.github.io/neuralrecon/)     |
+
+## Surface Reconstruction
+|                            Paper                             | Representation | Publisher |                         Project/Code                         |
+| :----------------------------------------------------------: | :------------: | :-------: | :----------------------------------------------------------: |
+| [Deep Geometric Prior for Surface Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/html/Williams_Deep_Geometric_Prior_for_Surface_Reconstruction_CVPR_2019_paper.html) |     Patches      | CVPR 2019 |        [[Code]](https://github.com/fwilliams/deep-geometric-prior)        |
+| [Scan2Mesh: From Unstructured Range Scans to 3D Meshes](https://openaccess.thecvf.com/content_CVPR_2019/html/Dai_Scan2Mesh_From_Unstructured_Range_Scans_to_3D_Meshes_CVPR_2019_paper.html) |     Mesh      | CVPR 2019 | / |
+| [Meshlet Priors for 3D Mesh Reconstruction](https://openaccess.thecvf.com/content_CVPR_2020/html/Badki_Meshlet_Priors_for_3D_Mesh_Reconstruction_CVPR_2020_paper.html) |     Mesh      | CVPR 2020 | / |
+| [SSRNet: Scalable 3D Surface Reconstruction Network](https://openaccess.thecvf.com/content_CVPR_2020/html/Mi_SSRNet_Scalable_3D_Surface_Reconstruction_Network_CVPR_2020_paper.html) |     Implicit      | CVPR 2020 | / |
+| [SAL: Sign Agnostic Learning of Shapes from Raw Data](http://openaccess.thecvf.com/content_CVPR_2020/html/Atzmon_SAL_Sign_Agnostic_Learning_of_Shapes_From_Raw_Data_CVPR_2020_paper.html) |     Implicit      | CVPR 2020 |        [[Code]](https://github.com/matanatz/SAL)      |
+| [Implicit Geometric Regularization for Learning Shapes](https://proceedings.mlr.press/v119/gropp20a.html) |     Implicit      | ICML 2020 |        [[Code]](https://github.com/amosgropp/IGR)        |
+| [Meshing Point Clouds with Predicted Intrinsic-Extrinsic Ratio Guidance](https://arxiv.org/abs/2007.09267) |     Mesh      | ECCV 2020 |        [[Code]](https://github.com/Colin97/Point2Mesh)        |
+| [PointTriNet: Learned Triangulation of 3D Point Sets](https://arxiv.org/abs/2005.02138) |     Mesh      | ECCV 2020 |        [[Code]](https://github.com/nmwsharp/learned-triangulation)      |
+| [Points2Surf: Learning Implicit Surfaces from Point Cloud Patches](https://arxiv.org/abs/2007.10453) |     Implicit      | ECCV 2020 |        [[Code]](https://github.com/ErlerPhilipp/points2surf)      |
+| [Convolutional Occupancy Networks](https://arxiv.org/abs/2003.04618) |     Implicit      | ECCV 2020 |        [[Code]](https://github.com/autonomousvision/convolutional_occupancy_networks)      |
+| [Implicit Neural Representations with Periodic Activation Functions](https://proceedings.neurips.cc/paper/2020/hash/53c04118df112c13a8c34b38343b9c10-Abstract.html) |     Implicit      | NIPS 2020 |        [[Project]](https://www.vincentsitzmann.com/siren/)      |
+| [Neural Unsigned Distance Fields for Implicit Function Learning](https://proceedings.neurips.cc/paper/2020/hash/f69e505b08403ad2298b9f262659929a-Abstract.html) |     Implicit      | NIPS 2020 |        [[Code]](https://github.com/jchibane/ndf)        |
+| [Differentiable Surface Triangulation](https://arxiv.org/abs/2109.10695) |     Mesh      | TOG 2021 |        [[Code]](https://github.com/mrakotosaon/diff-surface-triangulation)      |
+| [SALD: Sign Agnostic Learning with Derivatives](https://arxiv.org/abs/2006.05400) |     Implicit      | ICLR 2021 |        [[Code]](https://github.com/matanatz/SALD)      |
+| [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Deep_Implicit_Moving_Least-Squares_Functions_for_3D_Reconstruction_CVPR_2021_paper.html) |     Implicit      | CVPR 2021 |        [[Code]](https://github.com/Andy97/DeepMLS)      |
+| [Sign-Agnostic Implicit Learning of Surface Self-Similarities for Shape Modeling and Reconstruction from Raw Point Clouds](https://openaccess.thecvf.com/content/CVPR2021/html/Zhao_Sign-Agnostic_Implicit_Learning_of_Surface_Self-Similarities_for_Shape_Modeling_and_CVPR_2021_paper.html) |     Implicit      | CVPR 2021 | / |
+| [Learning Delaunay Surface Elements for Mesh Reconstruction](https://openaccess.thecvf.com/content/CVPR2021/html/Rakotosaona_Learning_Delaunay_Surface_Elements_for_Mesh_Reconstruction_CVPR_2021_paper.html) |     Mesh      | CVPR 2021 |        [[Code]](https://github.com/mrakotosaon/dse-meshing)        |
+| [Neural Splines: Fitting 3D Surfaces with Infinitely-Wide Neural Networks](https://openaccess.thecvf.com/content/CVPR2021/html/Williams_Neural_Splines_Fitting_3D_Surfaces_With_Infinitely-Wide_Neural_Networks_CVPR_2021_paper.html) |     Implicit      | CVPR 2021 |        [[Code]](https://github.com/fwilliams/neural-splines)      |
+| [Neural-Pull: Learning Signed Distance Functions from Point Clouds by Learning to Pull Space onto Surfaces](https://proceedings.mlr.press/v139/ma21b.html) |     Implicit      | ICML 2021 |        [[Code]](https://github.com/mabaorui/NeuralPull)      |
+| [Phase Transitions, Distance Functions, and Implicit Neural Representations](https://arxiv.org/abs/2106.07689) |     Implicit      | ICML 2021 | / |
+| [Vis2Mesh: Efficient Mesh Reconstruction from Unstructured Point Clouds of Large Scenes with Learned Virtual View Visibility](https://openaccess.thecvf.com/content/ICCV2021/papers/Song_Vis2Mesh_Efficient_Mesh_Reconstruction_From_Unstructured_Point_Clouds_of_Large_ICCV_2021_paper.pdf) |     Mesh      | ICCV 2021 |        [[Code]](https://github.com/GDAOSU/vis2mesh)      |
+| [Deep Hybrid Self-Prior for Full 3D Mesh Generation](https://openaccess.thecvf.com/content/ICCV2021/html/Wei_Deep_Hybrid_Self-Prior_for_Full_3D_Mesh_Generation_ICCV_2021_paper.html) |     Mesh      | ICCV 2021 | / |
+| [Adaptive Surface Reconstruction with Multiscale Convolutional Kernels](https://openaccess.thecvf.com/content/ICCV2021/papers/Ummenhofer_Adaptive_Surface_Reconstruction_With_Multiscale_Convolutional_Kernels_ICCV_2021_paper.pdf) |     Mesh      | ICCV 2021 |        [[Code]](https://github.com/isl-org/adaptive-surface-reconstruction)      |
+| [SA-ConvONet: Sign-Agnostic Optimization of Convolutional Occupancy Networks](http://openaccess.thecvf.com/content/ICCV2021/html/Tang_SA-ConvONet_Sign-Agnostic_Optimization_of_Convolutional_Occupancy_Networks_ICCV_2021_paper.html) |     Implicit      | ICCV 2021 |        [[Code]](https://github.com/tangjiapeng/SA-ConvONet)      |
+| [Deep Implicit Surface Point Prediction Networks](http://openaccess.thecvf.com/content/ICCV2021/html/Venkatesh_Deep_Implicit_Surface_Point_Prediction_Networks_ICCV_2021_paper.html) |     Implicit      | ICCV 2021 |        [[Project]](https://sites.google.com/view/cspnet)      |
+| [Shape As Points: A Differentiable Poisson Solver](https://arxiv.org/abs/2106.03452) |     Mesh      | NIPS 2021 |        [[Project]](https://pengsongyou.github.io/sap)      |
+| [Scalable Surface Reconstruction with Delaunay-Graph Neural Networks](https://arxiv.org/abs/2107.06130) |     Mesh      | arXiv 2021 | / |
+| [Neural-IMLS: Learning Implicit Moving Least-Squares for Surface Reconstruction from Unoriented Point clouds](https://arxiv.org/abs/2109.04398) |     Implicit      | arXiv 2021 |        [[Project]](https://qiujiedong.github.io/publications/Neural_IMLS/)      |
+| [Neural Fields as Learnable Kernels for 3D Reconstruction](https://arxiv.org/abs/2111.13674) |     Implicit      | arXiv 2021 |        [[Project]](https://nv-tlabs.github.io/nkf/)      |
+| [POCO: Point Convolution for Surface Reconstruction](https://arxiv.org/abs/2201.01831) |     Implicit      | arXiv 2022 |     [[Code]](https://github.com/valeoai/POCO)    |
 
 ## Survey
 
