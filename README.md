@@ -92,6 +92,8 @@ Table of Contents
 | [3DIAS: 3D Shape Reconstruction With Implicit Algebraic Surfaces](https://openaccess.thecvf.com/content/ICCV2021/html/Yavartanoo_3DIAS_3D_Shape_Reconstruction_With_Implicit_Algebraic_Surfaces_ICCV_2021_paper.html) | Primitive | ICCV 2021 | [Project](https://myavartanoo.github.io/3dias/) |
 | [A Dataset-Dispersion Perspective on Reconstruction Versus Recognition in Single-View 3D Reconstruction Networks](https://arxiv.org/abs/2111.15158) | Point Cloud | 3DV 2021 | [Code](https://github.com/yefanzhou/dispersion-score) |
 | [AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation](https://arxiv.org/abs/2203.09516) | Implicit | CVPR 2022 | [Project](https://yccyenchicheng.github.io/AutoSDF/) |
+| [3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow](https://arxiv.org/abs/2203.15190) | Point Cloud | CVPR 2022 | [Code](https://github.com/junshengzhou/3dattriflow) |
+| [Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction](https://arxiv.org/abs/2203.15190) | Implicit | CVPR 2022 | [Project](https://shubhtuls.github.io/ss3d/) |
 
 
 ### Multi-view
@@ -180,7 +182,7 @@ Table of Contents
 | [Scalable Surface Reconstruction with Delaunay-Graph Neural Networks](https://arxiv.org/abs/2107.06130) |     Mesh      | arXiv 2021 | / |
 | [Neural-IMLS: Learning Implicit Moving Least-Squares for Surface Reconstruction from Unoriented Point clouds](https://arxiv.org/abs/2109.04398) |     Implicit      | arXiv 2021 |        [Project](https://qiujiedong.github.io/publications/Neural_IMLS/)      |
 | [Neural Fields as Learnable Kernels for 3D Reconstruction](https://arxiv.org/abs/2111.13674) |     Implicit      | arXiv 2021 |        [Project](https://nv-tlabs.github.io/nkf/)      |
-| [POCO: Point Convolution for Surface Reconstruction](https://arxiv.org/abs/2201.01831) |     Implicit      | arXiv 2022 |     [Code](https://github.com/valeoai/POCO)    |
+| [POCO: Point Convolution for Surface Reconstruction](https://arxiv.org/abs/2201.01831) |     Implicit      | CVPR 2022 |     [Code](https://github.com/valeoai/POCO)    |
 
 ## Survey
 
