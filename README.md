@@ -9,6 +9,7 @@ Table of Contents
   * [Object-level](#object-level)
      * [Single-view](#single-view)
      * [Multi-view](#multi-view)
+     * [Unsupervised](#unsupervised)
   * [Scene-level](#scene-level)
      * [Single-view](#single-view-1)
      * [Multi-view](#multi-view-1)
@@ -116,6 +117,35 @@ Table of Contents
 | [Volume Rendering of Neural Implicit Surfaces](https://proceedings.neurips.cc/paper/2021/hash/25e2a30f44898b9f3e978b1786dcd85c-Abstract.html) |      Implicit      | ICCV 2021 |        [Unofficial Code](https://github.com/ventusff/neurecon)         |
 | [NeuralWarp: Improving neural implicit surfaces geometry with patch warping](https://arxiv.org/abs/2112.09648) |      Implicit      | CVPR 2022 |        [Project](http://imagine.enpc.fr/~darmonf/NeuralWarp/)         |
 
+### Unsupervised
+|                            Paper                             | Representation | Publisher |                         Project/Code                         |
+| :----------------------------------------------------------: | :------------: | :-------: | :----------------------------------------------------------: |
+| [Multi-view Supervision for Single-View Reconstruction via Differentiable Ray Consistency](https://openaccess.thecvf.com/content_cvpr_2017/html/Tulsiani_Multi-View_Supervision_for_CVPR_2017_paper.html) |      Voxel      | CVPR 2017 |        [Project](https://shubhtuls.github.io/drc/)         |
+| [Rethinking Reprojection: Closing the Loop for Pose-Aware Shape Reconstruction from a Single Image](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Rethinking_Reprojection_Closing_ICCV_2017_paper.html) |      Voxel      | ICCV 2017 |  /  |
+| [Learning Category-Specific Mesh Reconstruction from Image Collections](https://openaccess.thecvf.com/content_ECCV_2018/html/Angjoo_Kanazawa_Learning_Category-Specific_Mesh_ECCV_2018_paper.html) |      Mesh      | ECCV 2018 |        [Project](https://akanazawa.github.io/cmr/)         |
+| [Learning Single-View 3D Reconstruction with Limited Pose Supervision](https://openaccess.thecvf.com/content_ECCV_2018/html/Guandao_Yang_A_Unified_Framework_ECCV_2018_paper.html) |      Voxel      | ECCV 2018 |        [Code](https://github.com/stevenygd/3d-recon)         |
+| [Multi-View Consistency as Supervisory Signal for Learning Shape and Pose Prediction](https://openaccess.thecvf.com/content_cvpr_2018/html/Tulsiani_Multi-View_Consistency_as_CVPR_2018_paper.html) |      Voxel      | CVPR 2018 |        [Project](https://shubhtuls.github.io/mvcSnP/)         |
+| [Learning View Priors for Single-view 3D Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/html/Kato_Learning_View_Priors_for_Single-View_3D_Reconstruction_CVPR_2019_paper.html) |      Mesh      | CVPR 2019 |        [Code](https://github.com/hiroharu-kato/view_prior_learning)         |
+| [Escaping Plato's Cave: 3D Shape From Adversarial Rendering](https://openaccess.thecvf.com/content_ICCV_2019/html/Henzler_Escaping_Platos_Cave_3D_Shape_From_Adversarial_Rendering_ICCV_2019_paper.html) |      Voxel      | ICCV 2019 |        [Project](https://geometry.cs.ucl.ac.uk/projects/2019/platonicgan/)         |
+| [Learning to Infer Implicit Surfaces without 3D Supervision](https://proceedings.neurips.cc/paper/2019/hash/bdf3fd65c81469f9b74cedd497f2f9ce-Abstract.html) |      Implicit      | NIPS 2019 |  /  |
+| [Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer](https://proceedings.neurips.cc/paper/2019/hash/f5ac21cd0ef1b88e9848571aeb53551a-Abstract.html) |      Mesh      | NIPS 2019 |        [Project](https://nv-tlabs.github.io/DIB-R/)         |
+| [Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild](https://openaccess.thecvf.com/content_CVPR_2020/html/Wu_Unsupervised_Learning_of_Probably_Symmetric_Deformable_3D_Objects_From_Images_CVPR_2020_paper.html) |      Mesh      | CVPR 2020 |        [Project](https://elliottwu.com/projects/20_unsup3d/)         |
+| [Leveraging 2D Data to Learn Textured 3D Mesh Generation](https://openaccess.thecvf.com/content_CVPR_2020/html/Henderson_Leveraging_2D_Data_to_Learn_Textured_3D_Mesh_Generation_CVPR_2020_paper.html) |      Mesh      | CVPR 2020 |        [Code](https://github.com/pmh47/textured-mesh-gen)         |
+| [Implicit Mesh Reconstruction from Unannotated Image Collections](https://arxiv.org/abs/2007.08504) |      Mesh      | arXiv 2020 |        [Project](https://shubhtuls.github.io/imr/)         |
+| [Shape and Viewpoint without Keypoints](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600086.pdf) |      Mesh      | ECCV 2020 |        [Project](https://shubham-goel.github.io/ucmr/)         |
+| [Self-supervised Single-view 3D Reconstruction via Semantic Consistency](https://arxiv.org/abs/2003.06473) |      Mesh      | ECCV 2020 |        [Project](https://sites.google.com/nvidia.com/unsup-mesh-2020)         |
+| [SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images](https://proceedings.neurips.cc/paper/2020/hash/83fa5a432ae55c253d0e60dbfa716723-Abstract.html) |      Implicit      | NIPS 2020 |        [Project](https://chenhsuanlin.bitbucket.io/signed-distance-SRN/)         |
+| [Shelf-Supervised Mesh Prediction in the Wild](https://openaccess.thecvf.com/content/CVPR2021/html/Ye_Shelf-Supervised_Mesh_Prediction_in_the_Wild_CVPR_2021_paper.html) |      Mesh      | CVPR 2021 |        [Project](https://judyye.github.io/ShSMesh/)         |
+| [Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Fully_Understanding_Generic_Objects_Modeling_Segmentation_and_Reconstruction_CVPR_2021_paper.html) |      Implicit      | CVPR 2021 |        [Project](http://cvlab.cse.msu.edu/project-fully3dobject.html)         |
+| [Self-Supervised 3D Mesh Reconstruction from Single Images](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Self-Supervised_3D_Mesh_Reconstruction_From_Single_Images_CVPR_2021_paper.html) |      Mesh      | CVPR 2021 |        [Code](https://github.com/dvlab-research/SMR)         |
+| [Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs](https://arxiv.org/abs/2011.00844) |      Mesh      | ICLR 2021 |        [Project](https://xingangpan.github.io/projects/GAN2Shape.html)         |
+| [Discovering 3D Parts from Image Collections](https://openaccess.thecvf.com/content/ICCV2021/html/Yao_Discovering_3D_Parts_From_Image_Collections_ICCV_2021_paper.html) |      Mesh      | ICCV 2021 |        [Project](https://chhankyao.github.io/lpd/)         |
+| [Learning Canonical 3D Object Representation for Fine-Grained Recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Joung_Learning_Canonical_3D_Object_Representation_for_Fine-Grained_Recognition_ICCV_2021_paper.html) |      Mesh      | ICCV 2021 |  /  |
+| [Toward Realistic Single-View 3D Object Reconstruction with Unsupervised Learning from Multiple Images](https://openaccess.thecvf.com/content/ICCV2021/html/Ho_Toward_Realistic_Single-View_3D_Object_Reconstruction_With_Unsupervised_Learning_From_ICCV_2021_paper.html) |      Mesh      | ICCV 2021 |        [Code](https://github.com/VinAIResearch/LeMul)         |
+| [Learning Generative Models of Textured 3D Meshes from Real-World Images](https://openaccess.thecvf.com/content/ICCV2021/html/Pavllo_Learning_Generative_Models_of_Textured_3D_Meshes_From_Real-World_Images_ICCV_2021_paper.html) |      Mesh      | ICCV 2021 |        [Code](https://github.com/dariopavllo/textured-3d-gan)         |
+| [To The Point: Correspondence-driven monocular 3D category reconstruction](https://proceedings.neurips.cc/paper/2021/hash/40008b9a5380fcacce3976bf7c08af5b-Abstract.html) |      Mesh      | NIPS 2021 |        [Project](https://fkokkinos.github.io/to_the_point/)         |
+| [Share With Thy Neighbors: Single-View Reconstruction by Cross-Instance Consistency](https://arxiv.org/abs/2204.10310) |      Mesh      | arXiv 2022 |        [Project](http://imagine.enpc.fr/~monniert/UNICORN/)         |
+
 ## Scene-level
 
 ### Single-view
@@ -183,6 +213,9 @@ Table of Contents
 | [Neural-IMLS: Learning Implicit Moving Least-Squares for Surface Reconstruction from Unoriented Point clouds](https://arxiv.org/abs/2109.04398) |     Implicit      | arXiv 2021 |        [Project](https://qiujiedong.github.io/publications/Neural_IMLS/)      |
 | [Neural Fields as Learnable Kernels for 3D Reconstruction](https://arxiv.org/abs/2111.13674) |     Implicit      | arXiv 2021 |        [Project](https://nv-tlabs.github.io/nkf/)      |
 | [POCO: Point Convolution for Surface Reconstruction](https://arxiv.org/abs/2201.01831) |     Implicit      | CVPR 2022 |     [Code](https://github.com/valeoai/POCO)    |
+| [GIFS: Neural Implicit Function for General Shape Representation](https://arxiv.org/abs/2204.07126) |     Implicit      | CVPR 2022 |     [Project](https://jianglongye.com/gifs/)    |
+| [Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors](https://arxiv.org/abs/2204.10603) |     Implicit      | CVPR 2022 |     [Code](https://github.com/mabaorui/OnSurfacePrior)    |
+| [Surface Reconstruction from Point Clouds by Learning Predictive Context Priors](https://arxiv.org/abs/2204.11015) |     Implicit      | CVPR 2022 |     [Code](https://github.com/mabaorui/predictablecontextprior)    |
 
 ## Survey
 
