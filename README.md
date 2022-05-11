@@ -22,7 +22,6 @@ Table of Contents
 
 | Paper | Representation| Publisher | Project/Code |
 | :----------------------------------------------------------: | :-------: | :-------: | :-----------------------------------------------------: |
-| [Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision](https://proceedings.neurips.cc/paper/2016/hash/e820a45f1dfc7b95282d10b6087e11c0-Abstract.html) | Voxel | NIPS 2016 |      [Code](https://github.com/xcyan/nips16_PTN)      |
 | [A Point Set Generation Network for 3D Object Reconstruction from a Single Image](https://openaccess.thecvf.com/content_cvpr_2017/html/Fan_A_Point_Set_CVPR_2017_paper.html) | Point Cloud | CVPR 2017 | [Code](https://github.com/fanhqme/PointSetGeneration) |
 | [SurfNet: Generating 3D Shape Surfaces Using Deep Residual Networks](https://openaccess.thecvf.com/content_cvpr_2017/html/Sinha_SurfNet_Generating_3D_CVPR_2017_paper.html) | Mesh | CVPR 2017 | [Code](https://github.com/sinhayan/surfnet) |
 | [Multi-View Supervision for Single-View Reconstruction via Differentiable Ray Consistency](https://openaccess.thecvf.com/content_cvpr_2017/html/Tulsiani_Multi-View_Supervision_for_CVPR_2017_paper.html) | Voxel | CVPR 2017 | [Project](https://shubhtuls.github.io/drc/) |
@@ -120,6 +119,7 @@ Table of Contents
 ### Unsupervised
 |                            Paper                             | Representation | Publisher |                         Project/Code                         |
 | :----------------------------------------------------------: | :------------: | :-------: | :----------------------------------------------------------: |
+| [Perspective Transformer Nets: Learning Single-View 3D Object Reconstruction without 3D Supervision](https://proceedings.neurips.cc/paper/2016/hash/e820a45f1dfc7b95282d10b6087e11c0-Abstract.html) | Voxel | NIPS 2016 |      [Code](https://github.com/xcyan/nips16_PTN)      |
 | [Multi-view Supervision for Single-View Reconstruction via Differentiable Ray Consistency](https://openaccess.thecvf.com/content_cvpr_2017/html/Tulsiani_Multi-View_Supervision_for_CVPR_2017_paper.html) |      Voxel      | CVPR 2017 |        [Project](https://shubhtuls.github.io/drc/)         |
 | [Rethinking Reprojection: Closing the Loop for Pose-Aware Shape Reconstruction from a Single Image](https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Rethinking_Reprojection_Closing_ICCV_2017_paper.html) |      Voxel      | ICCV 2017 |  /  |
 | [Learning Category-Specific Mesh Reconstruction from Image Collections](https://openaccess.thecvf.com/content_ECCV_2018/html/Angjoo_Kanazawa_Learning_Category-Specific_Mesh_ECCV_2018_paper.html) |      Mesh      | ECCV 2018 |        [Project](https://akanazawa.github.io/cmr/)         |
@@ -178,6 +178,7 @@ Table of Contents
 | [Atlas: End-to-End 3D Scene Reconstruction from Posed Images](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520409.pdf) | Mesh           | ECCV 2020 | [Project](http://zak.murez.com/atlas/)               |
 | [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/abs/2104.00681) | Mesh           | CVPR 2021 | [Project](https://zju3dv.github.io/neuralrecon/)     |
 | [TransformerFusion: Monocular RGB Scene Reconstruction using Transformers](https://proceedings.neurips.cc/paper/2021/hash/0a87257e5308197df43230edf4ad1dae-Abstract.html) |    Implicit    | NIPS 2021 |  [Project](https://aljazbozic.github.io/transformerfusion/)  |
+| [Neural 3D Scene Reconstruction with the Manhattan-world Assumption](https://arxiv.org/abs/2205.02836) |    Implicit    | CVPR 2022 |  [Project](https://zju3dv.github.io/manhattan_sdf/)  |
 
 ## Surface Reconstruction
 |                            Paper                             | Representation | Publisher |                         Project/Code                         |
@@ -222,3 +223,4 @@ Table of Contents
 |                            Paper                             | Publisher  |
 | :--------------------------------------------------------------------: | :--------: |
 | [Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era](https://arxiv.org/abs/1906.06543) | TPAMI 2019 |
+| [Surface Reconstruction from Point Clouds: A Survey and a Benchmark](https://arxiv.org/abs/2205.02413) | arXiv 2022 |
