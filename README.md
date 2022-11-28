@@ -273,7 +273,7 @@ Table of Contents
 | [Deep Point Cloud Simplification for High-quality Surface Reconstruction](https://arxiv.org/abs/2203.09088) |     Implicit      | arXiv 2022 | / |
 | [GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions](https://arxiv.org/abs/2206.02780) |     Implicit      | arXiv 2022 | [Code](https://github.com/princeton-computational-imaging/gensdf) |
 | [RangeUDF: Semantic Surface Reconstruction from 3D Point Clouds](https://arxiv.org/abs/2204.09138) |     Implicit      | arXiv 2022 | [Code](https://github.com/vlar-group/rangeudf) |
-| [Neural Poisson: Indicator Functions for Neural Fields) |     Implicit      | arXiv 2022 | / |
+| [Neural Poisson: Indicator Functions for Neural Fields](https://arxiv.org/abs/2211.14249) |     Implicit      | arXiv 2022 | / |
 
 ### RGB-D
 |                            Paper                             | Representation | Publisher |                         Project/Code                         |
