@@ -143,7 +143,7 @@ Table of Contents
 | [Self-Supervised 3D Mesh Reconstruction from Single Images](https://openaccess.thecvf.com/content/CVPR2021/html/Hu_Self-Supervised_3D_Mesh_Reconstruction_From_Single_Images_CVPR_2021_paper.html) |      Mesh      | CVPR 2021 |        [Code](https://github.com/dvlab-research/SMR)         |
 | [View Generalization for Single Image Textured 3D Models](https://openaccess.thecvf.com/content/CVPR2021/html/Bhattad_View_Generalization_for_Single_Image_Textured_3D_Models_CVPR_2021_paper.html) |      Mesh      | CVPR 2021 |        [Project](https://nv-adlr.github.io/view-generalization)         |
 | [Do 2D GANs Know 3D Shape? Unsupervised 3D shape reconstruction from 2D Image GANs](https://arxiv.org/abs/2011.00844) |      Mesh      | ICLR 2021 |        [Project](https://xingangpan.github.io/projects/GAN2Shape.html)         |
-| [Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering]([https://arxiv.org/abs/2207.10183](https://arxiv.org/abs/2010.09125)) |      Mesh      | ICLR 2021 |        [Project](https://nv-tlabs.github.io/GANverse3D/)    |
+| [Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering](https://arxiv.org/abs/2010.09125) |      Mesh      | ICLR 2021 |        [Project](https://nv-tlabs.github.io/GANverse3D/)    |
 | [Discovering 3D Parts from Image Collections](https://openaccess.thecvf.com/content/ICCV2021/html/Yao_Discovering_3D_Parts_From_Image_Collections_ICCV_2021_paper.html) |      Mesh      | ICCV 2021 |        [Project](https://chhankyao.github.io/lpd/)         |
 | [Learning Canonical 3D Object Representation for Fine-Grained Recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Joung_Learning_Canonical_3D_Object_Representation_for_Fine-Grained_Recognition_ICCV_2021_paper.html) |      Mesh      | ICCV 2021 |  /  |
 | [Toward Realistic Single-View 3D Object Reconstruction with Unsupervised Learning from Multiple Images](https://openaccess.thecvf.com/content/ICCV2021/html/Ho_Toward_Realistic_Single-View_3D_Object_Reconstruction_With_Unsupervised_Learning_From_ICCV_2021_paper.html) |      Mesh      | ICCV 2021 |        [Code](https://github.com/VinAIResearch/LeMul)         |
@@ -230,6 +230,8 @@ Table of Contents
 | [HashSDF: Accurate Implicit Surfaces with Fast Local Features on Permutohedral Lattices](https://arxiv.org/abs/2211.12562) |    Implicit    | arXiv 2022 | / |
 | [ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision](https://arxiv.org/abs/2211.14086) |    Implicit    | arXiv 2022 |  [Project](https://gerwang.github.io/shadowneus/)  |
 | [NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies](https://arxiv.org/abs/2211.14173) |    Implicit    | arXiv 2022 |  [Project](https://www.xxlong.site/NeuralUDF/)  |
+| [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://arxiv.org/abs/2212.00792) |    Implicit    | arXiv 2022 |  [Project](https://sparsefusion.github.io/)  |
+| [QFF: Quantized Fourier Features for Neural Field Representations](https://arxiv.org/abs/2212.00914) |    Implicit    | arXiv 2022 |  /  |
 
 ### Point-cloud
 |                            Paper                             | Representation | Publisher |                         Project/Code                         |
@@ -274,6 +276,7 @@ Table of Contents
 | [GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions](https://arxiv.org/abs/2206.02780) |     Implicit      | arXiv 2022 | [Code](https://github.com/princeton-computational-imaging/gensdf) |
 | [RangeUDF: Semantic Surface Reconstruction from 3D Point Clouds](https://arxiv.org/abs/2204.09138) |     Implicit      | arXiv 2022 | [Code](https://github.com/vlar-group/rangeudf) |
 | [Neural Poisson: Indicator Functions for Neural Fields](https://arxiv.org/abs/2211.14249) |     Implicit      | arXiv 2022 | / |
+| [GeoUDF: Surface Reconstruction from 3D Point Clouds via Geometry-guided Distance Representation](https://arxiv.org/abs/2211.16762) |     Implicit      | arXiv 2022 | [Code](https://github.com/rsy6318/GeoUDF) |
 
 ### RGB-D
 |                            Paper                             | Representation | Publisher |                         Project/Code                         |
