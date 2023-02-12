@@ -226,7 +226,7 @@ Table of Contents
 | [Learning Consistency-Aware Unsigned Distance Functions Progressively from Raw Point Clouds](https://arxiv.org/abs/2210.02757) |    Implicit    | NIPS 2022 | [Project](https://junshengzhou.github.io/CAP-UDF/) |
 | [Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction](https://arxiv.org/abs/2205.15848) |    Implicit    | NIPS 2022 |  [Code](https://github.com/GhiXu/Geo-Neus)  |
 | [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://arxiv.org/abs/2206.00665) |    Implicit    | NIPS 2022 |  [Project](https://niujinshuchong.github.io/monosdf/)  |
-| [HF-NeuS: Improved Surface Reconstruction Using High-Frequency Details) |    Implicit    | NIPS 2022 |  [Project](https://github.com/yiqun-wang/HFS)  |
+| [HF-NeuS: Improved Surface Reconstruction Using High-Frequency Details](https://arxiv.org/abs/2206.07850) |    Implicit    | NIPS 2022 |  [Project](https://github.com/yiqun-wang/HFS)  |
 | [Recovering Fine Details for Neural Implicit Surface Reconstruction](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Recovering_Fine_Details_for_Neural_Implicit_Surface_Reconstruction_WACV_2023_paper.html) |    Implicit    | WACV 2022 |  [Code](https://github.com/fraunhoferhhi/D-NeuS)  |
 | [NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors](https://arxiv.org/abs/2206.13597) |    Implicit    | arXiv 2022 |  [Project](https://jiepengwang.github.io/NeuRIS/)  |
 | [Multi-View Reconstruction using Signed Ray Distance Functions (SRDF)](https://arxiv.org/abs/2209.00082) |    Implicit    | arXiv 2022 | / |
