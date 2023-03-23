@@ -305,3 +305,4 @@ Table of Contents
 | :--------------------------------------------------------------------: | :--------: |
 | [Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era](https://arxiv.org/abs/1906.06543) | TPAMI 2019 |
 | [Surface Reconstruction from Point Clouds: A Survey and a Benchmark](https://arxiv.org/abs/2205.02413) | arXiv 2022 |
+| [Deep Learning-based 3D Reconstruction: A Survey](https://link.springer.com/article/10.1007/s10462-023-10399-2) | Artificial Intelligence Review 2023 |
