@@ -232,7 +232,7 @@ Table of Contents
 | [QFF: Quantized Fourier Features for Neural Field Representations](https://arxiv.org/abs/2212.00914) |    Implicit    | arXiv 2022 |  /  |
 | [NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction](https://arxiv.org/abs/2212.05231) |    Implicit    | arXiv 2022 |  [Project](https://vcai.mpi-inf.mpg.de/projects/NeuS2/)  |
 | [Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction](https://arxiv.org/abs/2208.12697) |    Implicit    | ICLR 2023 | / |
-| [PermutoSDF: Fast Multi-View Reconstruction with Implicit Surfaces using Permutohedral Lattices](https://arxiv.org/abs/2211.12562) |    Implicit    | CVPR 2023 | / |
+| [PermutoSDF: Fast Multi-View Reconstruction with Implicit Surfaces using Permutohedral Lattices](https://arxiv.org/abs/2211.12562) |    Implicit    | CVPR 2023 | [Project](https://radualexandru.github.io/permuto_sdf/) |
 | [ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision](https://arxiv.org/abs/2211.14086) |    Implicit    | CVPR 2023 |  [Project](https://gerwang.github.io/shadowneus/)  |
 | [NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies](https://arxiv.org/abs/2211.14173) |    Implicit    | CVPR 2023 |  [Project](https://www.xxlong.site/NeuralUDF/)  |
 | [NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction](https://arxiv.org/abs/2303.02375) |     Implicit      | CVPR 2023 | [Project](https://3d-front-future.github.io/neuda/) |
