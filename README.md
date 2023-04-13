@@ -74,20 +74,14 @@ Table of Contents
 | [Self-supervised Single-view 3D Reconstruction via Semantic Consistency](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123590664.pdf) | Mesh | ECCV 2020 | [Project](https://sites.google.com/nvidia.com/unsup-mesh-2020) |
 | [Shape and Viewpoint without Keypoints](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600086.pdf) | Mesh | ECCV 2020 | [Project](https://shubham-goel.github.io/ucmr/) |
 | [Ladybird: Quasi-Monte Carlo Sampling for Deep Implicit Field Based 3D Reconstruction with Symmetry](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460239.pdf) | Mesh | ECCV 2020 | [Code](https://github.com/FuxiCV/Ladybird) |
-| [Learning to Detect 3D Reflection Symmetry for Single-View Reconstruction](https://arxiv.org/abs/2006.10042) | / | arXiv 2020 | [Code](https://github.com/zhou13/symmetrynet) |
-| [3D Reconstruction of Novel Object Shapes from Single Images](https://arxiv.org/abs/2006.07752) | Implicit | arXiv 2020 | [Project](https://devlearning-gt.github.io/3DShapeGen/) |
-| [3D Shape Reconstruction from Free-Hand Sketches](https://arxiv.org/abs/2006.09694) | Point Cloud | arXiv 2020 | [Code](https://github.com/samaonline/3D-Shape-Reconstruction-from-Free-Hand-Sketches) |
-| [Implicit Mesh Reconstruction from Unannotated Image Collections](https://arxiv.org/abs/2007.08504) | Mesh | arXiv 2020 | [Project](https://shubhtuls.github.io/imr/) |
-| [SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images](https://arxiv.org/abs/2008.05742) | Mesh | arXiv 2020 | [Code](https://github.com/tangjiapeng/SkeletonNet) |
 | [Learning Deformable Tetrahedral Meshes for 3D Reconstruction](https://proceedings.neurips.cc//paper/2020/file/7137debd45ae4d0ab9aa953017286b20-Paper.pdf) | Mesh | NIPS 2020 | [Project](https://nv-tlabs.github.io/DefTet/) |
 | [SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images](https://papers.nips.cc/paper/2020/file/83fa5a432ae55c253d0e60dbfa716723-Paper.pdf) | Implicit | NIPS 2020 | [Project](https://chenhsuanlin.bitbucket.io/signed-distance-SRN/) |
 | [UCLID-Net: Single View Reconstruction in Object Space](https://papers.nips.cc/paper/2020/hash/21327ba33b3689e713cdff1641128004-Abstract.html) | Mesh | NIPS 2020 | [Code](https://github.com/cvlab-epfl/UCLID-Net) |
 | [Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images](https://arxiv.org/abs/2006.12250) | Voxel | IJCV 2020 | [Code](https://gitlab.com/hzxie/Pix2Vox) |
 | [D2IM-Net: Learning Detail Disentangled Implicit Fields From Single Images](https://openaccess.thecvf.com/content/CVPR2021/html/Li_D2IM-Net_Learning_Detail_Disentangled_Implicit_Fields_From_Single_Images_CVPR_2021_paper.html) | Implicit | CVPR 2021 | [Code](https://github.com/ManyiLi12345/D2IM-Net) |
+| [NeRD: Neural 3D Reflection Symmetry Detector](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_NeRD_Neural_3D_Reflection_Symmetry_Detector_CVPR_2021_paper.html) | / | CVPR 2021 | [Code](https://github.com/zhou13/nerd) |
 | [Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors](https://openaccess.thecvf.com/content/CVPR2021/html/Bechtold_Fostering_Generalization_in_Single-View_3D_Reconstruction_by_Learning_a_Hierarchy_CVPR_2021_paper.html) | Implicit | CVPR 2021 | [Code](https://github.com/boschresearch/HierarchicalPriorNetworks) |
 | [Single-View 3D Object Reconstruction From Shape Priors in Memory](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_Single-View_3D_Object_Reconstruction_From_Shape_Priors_in_Memory_CVPR_2021_paper.html) | Voxel | CVPR 2021 | [Project](https://cvxnet.github.io/) |
-| [Look, Cast and Mold: Learning 3D Shape Manifold from Single-view Synthetic Data](https://arxiv.org/abs/2103.04789) | Voxel |  arXiv 2021 | / |
-| [Neural Implicit 3D Shapes from Single Images with Spatial Patterns](https://arxiv.org/abs/2106.03087) | Implicit |  arXiv 2021 | [Code](https://github.com/yixin26/SVR-SP) |
 | [Implicit Surface Representations as Layers in Neural Networks](https://openaccess.thecvf.com/content_ICCV_2019/html/Michalkiewicz_Implicit_Surface_Representations_As_Layers_in_Neural_Networks_ICCV_2019_paper.html) | Implicit | ICCV 2021 | / |
 | [Ray-ONet: Efficient 3D Reconstruction From A Single RGB Image](https://arxiv.org/abs/2107.01899) | Implicit | BMVC 2021 | [Project](https://rayonet.active.vision/) |
 | [Learning Anchored Unsigned Distance Functions with Gradient Direction Alignment for Single-view Garment Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Learning_Anchored_Unsigned_Distance_Functions_With_Gradient_Direction_Alignment_for_ICCV_2021_paper.html) | Implicit | ICCV 2021 | [Code](https://github.com/zhaofang0627/AnchorUDF) |
@@ -95,10 +89,12 @@ Table of Contents
 | [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://openaccess.thecvf.com/content/ICCV2021/html/Guillard_Sketch2Mesh_Reconstructing_and_Editing_3D_Shapes_From_Sketches_ICCV_2021_paper.html) | Mesh | ICCV 2021 | [Code](https://github.com/cvlab-epfl/sketch2mesh) |
 | [3DIAS: 3D Shape Reconstruction With Implicit Algebraic Surfaces](https://openaccess.thecvf.com/content/ICCV2021/html/Yavartanoo_3DIAS_3D_Shape_Reconstruction_With_Implicit_Algebraic_Surfaces_ICCV_2021_paper.html) | Primitive | ICCV 2021 | [Project](https://myavartanoo.github.io/3dias/) |
 | [A Dataset-Dispersion Perspective on Reconstruction Versus Recognition in Single-View 3D Reconstruction Networks](https://arxiv.org/abs/2111.15158) | Point Cloud | 3DV 2021 | [Code](https://github.com/yefanzhou/dispersion-score) |
+| [3D Reconstruction of Novel Object Shapes from Single Images](https://arxiv.org/abs/2006.07752) | Implicit | 3DV 2021 | [Project](https://devlearning-gt.github.io/3DShapeGen/) |
 | [AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation](https://arxiv.org/abs/2203.09516) | Implicit | CVPR 2022 | [Project](https://yccyenchicheng.github.io/AutoSDF/) |
 | [3D Shape Reconstruction from 2D Images with Disentangled Attribute Flow](https://arxiv.org/abs/2203.15190) | Point Cloud | CVPR 2022 | [Code](https://github.com/junshengzhou/3dattriflow) |
 | [Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction](https://arxiv.org/abs/2203.15190) | Implicit | CVPR 2022 | [Project](https://shubhtuls.github.io/ss3d/) |
 | [Neural Template: Topology-aware Reconstruction and Disentangled Generation of 3D Meshes](https://openaccess.thecvf.com/content/CVPR2022/html/Hui_Neural_Template_Topology-Aware_Reconstruction_and_Disentangled_Generation_of_3D_Meshes_CVPR_2022_paper.html) | Hybrid | CVPR 2022 | [Code](https://github.com/edward1997104/Neural-Template) |
+| [SkeletonNet: A Topology-Preserving Solution for Learning Mesh Reconstruction of Object Surfaces from RGB Images](https://arxiv.org/abs/2008.05742) | Mesh | TPAMI 2022 | [Code](https://github.com/tangjiapeng/SkeletonNet) |
 | [Training Data Generating Networks: Shape Reconstruction via Bi-level Optimization](https://arxiv.org/abs/2010.08276) | Implicit | ICLR 2022 | / |
 | [Structural Causal 3D Reconstruction](https://arxiv.org/abs/2207.10156) | Hybrid | ECCV 2022 | / |
 | [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610054.pdf) | Voxel | ECCV 2022 | / |
@@ -153,8 +149,9 @@ Table of Contents
 | [2D GANs Meet Unsupervised Single-View 3D Reconstruction](https://arxiv.org/abs/2207.10183) |      Implicit      | ECCV 2022 |        [Project](http://cvlab.cse.msu.edu/project-gansvr.html)    |
 | [Monocular 3D Object Reconstruction with GAN Inversion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610665.pdf) |      Mesh      | ECCV 2022 |        [Project](https://www.mmlab-ntu.com/project/meshinversion/)    |
 | [Share With Thy Neighbors: Single-View Reconstruction by Cross-Instance Consistency](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610282.pdf) |      Mesh      | ECCV 2022 |        [Project](http://imagine.enpc.fr/~monniert/UNICORN/)         |
-| [Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion](https://arxiv.org/abs/2211.11674) |      Implicit      | arXiv 2022 |        /         |
-| [Seeing a Rose in Five Thousand Ways](https://arxiv.org/abs/2212.04965) |      Implicit      | arXiv 2022 | [Project](https://cs.stanford.edu/~yzzhang/projects/rose/) |
+| [Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion](https://arxiv.org/abs/2211.11674) |      Implicit      | CVPR 2023 | [Code](https://github.com/google-research/nerf-from-image) |
+| [Seeing a Rose in Five Thousand Ways](https://arxiv.org/abs/2212.04965) |      Implicit      | CVPR 2023 | [Project](https://cs.stanford.edu/~yzzhang/projects/rose/) |
+| [SAOR: Single-View Articulated Object Reconstruction](https://arxiv.org/abs/2303.13514) |      Implicit      | arXiv 2023 | [Project](https://mehmetaygun.github.io/saor) |
 
 ## Scene-level
 
@@ -164,7 +161,7 @@ Table of Contents
 | [IM2CAD](https://openaccess.thecvf.com/content_cvpr_2017/html/Izadinia_IM2CAD_CVPR_2017_paper.html) |      CAD       | CVPR 2017 |         [Code](https://github.com/yyong119/IM2CAD)         |
 | [3D-RCNN: Instance-level 3D Object Reconstruction via Render-and-Compare](https://openaccess.thecvf.com/content_cvpr_2018/html/Kundu_3D-RCNN_Instance-Level_3D_CVPR_2018_paper.html) |     Priors     | CVPR 2018 |   [Project](https://abhijitkundu.info/projects/3D-RCNN/)   |
 | [Factoring Shape, Pose, and Layout from the 2D Image of a 3D Scene](https://openaccess.thecvf.com/content_cvpr_2018/html/Tulsiani_Factoring_Shape_Pose_CVPR_2018_paper.html) |     Voxel      | CVPR 2018 |     [Project](https://shubhtuls.github.io/factored3d/)     |
-| [Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image](https://openaccess.thecvf.com/content_ECCV_2018/html/Siyuan_Huang_Monocular_Scene_Parsing_ECCV_2018_paper.html) |      CAD       | ECCV 2018 | [Project](https://siyuanhuang.com/holistic_parsing/main.html) |
+| [Holistic 3D Scene Parsing and Reconstruction from a Single RGB Image](https://openaccess.thecvf.com/content_ECCV_2018/html/Siyuan_Huang_Monocular_Scene_Parsing_ECCV_2018_paper.html) |      Mesh       | ECCV 2018 | [Project](https://siyuanhuang.com/holistic_parsing/main.html) |
 | [Mesh R-CNN](https://openaccess.thecvf.com/content_ICCV_2019/html/Gkioxari_Mesh_R-CNN_ICCV_2019_paper.html) |      Mesh      | ICCV 2019 |    [Code](https://github.com/facebookresearch/meshrcnn)    |
 | [3D Scene Reconstruction With Multi-Layer Depth and Epipolar Transformers](https://openaccess.thecvf.com/content_ICCV_2019/html/Shin_3D_Scene_Reconstruction_With_Multi-Layer_Depth_and_Epipolar_Transformers_ICCV_2019_paper.html) |      Mesh      | ICCV 2019 | [Project](https://research.dshin.org/iccv19/multi-layer-depth) |
 | [3D-RelNet: Joint Object and Relational Network for 3D Prediction](https://openaccess.thecvf.com/content_ICCV_2019/html/Kulkarni_3D-RelNet_Joint_Object_and_Relational_Network_for_3D_Prediction_ICCV_2019_paper.html) |     Voxel      | ICCV 2019 |  [Project](https://nileshkulkarni.github.io/relative3d/)   |
@@ -193,6 +190,7 @@ Table of Contents
 | [Learning 3D Object Shape and Layout without 3D Supervision](https://openaccess.thecvf.com/content/CVPR2022/html/Gkioxari_Learning_3D_Object_Shape_and_Layout_Without_3D_Supervision_CVPR_2022_paper.html) |    Mesh    | CVPR 2022 |  [Project](https://gkioxari.github.io/usl/index.html)  |
 | [Directed Ray Distance Functions for 3D Scene Reconstruction](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620193.pdf) |    Implicit    | ECCV 2022 |  [Project](https://nileshkulkarni.github.io/scene_drdf/)  |
 | [Learning 3D Scene Priors with 2D Supervision](https://arxiv.org/abs/2211.14157) |    Mesh    | arXiv 2022 |  [Project](https://yinyunie.github.io/sceneprior-page/)  |
+| [FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction](https://arxiv.org/abs/2304.01480) |    Implicit    | arXiv 2023 |  /  |
 
 ## Neural Surface
 
@@ -228,16 +226,25 @@ Table of Contents
 | [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://arxiv.org/abs/2206.00665) |    Implicit    | NIPS 2022 |  [Project](https://niujinshuchong.github.io/monosdf/)  |
 | [HF-NeuS: Improved Surface Reconstruction Using High-Frequency Details](https://arxiv.org/abs/2206.07850) |    Implicit    | NIPS 2022 |  [Project](https://github.com/yiqun-wang/HFS)  |
 | [Recovering Fine Details for Neural Implicit Surface Reconstruction](https://openaccess.thecvf.com/content/WACV2023/html/Chen_Recovering_Fine_Details_for_Neural_Implicit_Surface_Reconstruction_WACV_2023_paper.html) |    Implicit    | WACV 2022 |  [Code](https://github.com/fraunhoferhhi/D-NeuS)  |
-| [NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors](https://arxiv.org/abs/2206.13597) |    Implicit    | arXiv 2022 |  [Project](https://jiepengwang.github.io/NeuRIS/)  |
+| [NeuRIS: Neural Reconstruction of Indoor Scenes Using Normal Priors](https://arxiv.org/abs/2206.13597) |    Implicit    | ECCV 2022 |  [Project](https://jiepengwang.github.io/NeuRIS/)  |
 | [Multi-View Reconstruction using Signed Ray Distance Functions (SRDF)](https://arxiv.org/abs/2209.00082) |    Implicit    | arXiv 2022 | / |
 | [Sphere-Guided Training of Neural Implicit Surfaces](https://arxiv.org/abs/2209.15511) |    Implicit    | arXiv 2022 | / |
-| [HashSDF: Accurate Implicit Surfaces with Fast Local Features on Permutohedral Lattices](https://arxiv.org/abs/2211.12562) |    Implicit    | arXiv 2022 | / |
-| [ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision](https://arxiv.org/abs/2211.14086) |    Implicit    | arXiv 2022 |  [Project](https://gerwang.github.io/shadowneus/)  |
-| [NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies](https://arxiv.org/abs/2211.14173) |    Implicit    | arXiv 2022 |  [Project](https://www.xxlong.site/NeuralUDF/)  |
-| [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://arxiv.org/abs/2212.00792) |    Implicit    | arXiv 2022 |  [Project](https://sparsefusion.github.io/)  |
 | [QFF: Quantized Fourier Features for Neural Field Representations](https://arxiv.org/abs/2212.00914) |    Implicit    | arXiv 2022 |  /  |
 | [NeuS2: Fast Learning of Neural Implicit Surfaces for Multi-view Reconstruction](https://arxiv.org/abs/2212.05231) |    Implicit    | arXiv 2022 |  [Project](https://vcai.mpi-inf.mpg.de/projects/NeuS2/)  |
 | [Voxurf: Voxel-based Efficient and Accurate Neural Surface Reconstruction](https://arxiv.org/abs/2208.12697) |    Implicit    | ICLR 2023 | / |
+| [PermutoSDF: Fast Multi-View Reconstruction with Implicit Surfaces using Permutohedral Lattices](https://arxiv.org/abs/2211.12562) |    Implicit    | CVPR 2023 | / |
+| [ShadowNeuS: Neural SDF Reconstruction by Shadow Ray Supervision](https://arxiv.org/abs/2211.14086) |    Implicit    | CVPR 2023 |  [Project](https://gerwang.github.io/shadowneus/)  |
+| [NeuralUDF: Learning Unsigned Distance Fields for Multi-view Reconstruction of Surfaces with Arbitrary Topologies](https://arxiv.org/abs/2211.14173) |    Implicit    | CVPR 2023 |  [Project](https://www.xxlong.site/NeuralUDF/)  |
+| [NeuDA: Neural Deformable Anchor for High-Fidelity Implicit Surface Reconstruction](https://arxiv.org/abs/2303.02375) |     Implicit      | CVPR 2023 | [Project](https://3d-front-future.github.io/neuda/) |
+| [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://arxiv.org/abs/2212.00792) |    Implicit    | CVPR 2023 |  [Project](https://sparsefusion.github.io/)  |
+| [I$^2$-SDF: Intrinsic Indoor Scene Reconstruction and Editing via Raytracing in Neural SDFs](https://arxiv.org/abs/2303.07634) |     Implicit      | CVPR 2023 | [Project](https://jingsenzhu.github.io/i2-sdf/) |
+| [NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images](https://arxiv.org/abs/2303.12012) |     Implicit      | CVPR 2023 | [Project](https://xmeng525.github.io/xiaoxumeng.github.io/projects/cvpr23_neat) |
+| [HR-NeuS: Recovering High-Frequency Surface Geometry via Neural Implicit Surfaces](https://arxiv.org/abs/2302.06793) |    Implicit    | arXiv 2023 | / |
+| [RICO: Regularizing the Unobservable for Indoor Compositional Reconstruction](https://arxiv.org/abs/2303.08605) |    Implicit    | arXiv 2023 | / |
+| [Learning a Room with the Occ-SDF Hybrid: Signed Distance Function Mingled with Occupancy Aids Scene Representation](https://arxiv.org/abs/2303.09152) |    Implicit    | arXiv 2023 | / |
+| [NeUDF: Learning Unsigned Distance Fields from Multi-view Images for Reconstructing Non-watertight Models](https://arxiv.org/abs/2303.15368) |     Implicit      | arXiv 2023 | / |
+| [S-VolSDF: Sparse Multi-View Stereo Regularization of Neural Implicit](https://arxiv.org/abs/2303.17712) |     Implicit      | arXiv 2023 | [Project](https://hao-yu-wu.github.io/s-volsdf/) |
+| [VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization](https://arxiv.org/abs/2303.17968) |     Implicit      | arXiv 2023 | / |
 
 ### Point-cloud
 |                            Paper                             | Representation | Publisher |                         Project/Code                         |
@@ -269,23 +276,24 @@ Table of Contents
 | [Deep Implicit Surface Point Prediction Networks](http://openaccess.thecvf.com/content/ICCV2021/html/Venkatesh_Deep_Implicit_Surface_Point_Prediction_Networks_ICCV_2021_paper.html) |     Implicit      | ICCV 2021 |        [Project](https://sites.google.com/view/cspnet)      |
 | [Shape As Points: A Differentiable Poisson Solver](https://arxiv.org/abs/2106.03452) |     Mesh      | NIPS 2021 |        [Project](https://pengsongyou.github.io/sap)      |
 | [AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations](https://arxiv.org/abs/2110.11860) |     Implicit      | 3DV 2021 |     [Code](https://github.com/SimonGiebenhain/AIR-Nets)    |
-| [Scalable Surface Reconstruction with Delaunay-Graph Neural Networks](https://arxiv.org/abs/2107.06130) |     Mesh      | arXiv 2021 | / |
+| [Scalable Surface Reconstruction with Delaunay-Graph Neural Networks](https://arxiv.org/abs/2107.06130) |     Mesh      | SGP 2021 | [Code](https://github.com/raphaelsulzer/dgnn) |
 | [Neural-IMLS: Learning Implicit Moving Least-Squares for Surface Reconstruction from Unoriented Point clouds](https://arxiv.org/abs/2109.04398) |     Implicit      | arXiv 2021 |        [Project](https://qiujiedong.github.io/publications/Neural_IMLS/)      |
-| [Neural Fields as Learnable Kernels for 3D Reconstruction](https://arxiv.org/abs/2111.13674) |     Implicit      | arXiv 2021 |        [Project](https://nv-tlabs.github.io/nkf/)      |
+| [Neural Fields as Learnable Kernels for 3D Reconstruction](https://arxiv.org/abs/2111.13674) |     Implicit      | CVPR 2022 |        [Project](https://nv-tlabs.github.io/nkf/)      |
 | [POCO: Point Convolution for Surface Reconstruction](https://arxiv.org/abs/2201.01831) |     Implicit      | CVPR 2022 |     [Code](https://github.com/valeoai/POCO)    |
 | [GIFS: Neural Implicit Function for General Shape Representation](https://arxiv.org/abs/2204.07126) |     Implicit      | CVPR 2022 |     [Project](https://jianglongye.com/gifs/)    |
 | [Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors](https://arxiv.org/abs/2204.10603) |     Implicit      | CVPR 2022 |     [Code](https://github.com/mabaorui/OnSurfacePrior)    |
 | [Surface Reconstruction from Point Clouds by Learning Predictive Context Priors](https://arxiv.org/abs/2204.11015) |     Implicit      | CVPR 2022 |     [Code](https://github.com/mabaorui/predictablecontextprior)    |
 | [DiGS: Divergence Guided Shape Implicit Neural Representation for Unoriented Point Clouds](https://openaccess.thecvf.com/content/CVPR2022/html/Ben-Shabat_DiGS_Divergence_Guided_Shape_Implicit_Neural_Representation_for_Unoriented_Point_CVPR_2022_paper.html) |     Implicit      | CVPR 2022 |     [Project](https://chumbyte.github.io/DiGS-Site/)    |
 | [VisCo Grids: Surface Reconstruction with Viscosity and Coarea Grids](https://openreview.net/forum?id=tX_dIvk4j-s) |     Implicit      | NIPS 2022 | / |
+| [GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions](https://arxiv.org/abs/2206.02780) |     Implicit      | NIPS 2022 | [Project](https://light.princeton.edu/publication/gensdf/) |
 | [Dual Octree Graph Networks for Learning Adaptive Volumetric Shape Representations](https://arxiv.org/abs/2205.02825) |     Implicit      | SIGGRAPH 2022 | [Code](https://github.com/microsoft/DualOctreeGNN) |
 | [Deep Point Cloud Simplification for High-quality Surface Reconstruction](https://arxiv.org/abs/2203.09088) |     Implicit      | arXiv 2022 | / |
-| [GenSDF: Two-Stage Learning of Generalizable Signed Distance Functions](https://arxiv.org/abs/2206.02780) |     Implicit      | arXiv 2022 | [Code](https://github.com/princeton-computational-imaging/gensdf) |
 | [RangeUDF: Semantic Surface Reconstruction from 3D Point Clouds](https://arxiv.org/abs/2204.09138) |     Implicit      | arXiv 2022 | [Code](https://github.com/vlar-group/rangeudf) |
 | [Neural Poisson: Indicator Functions for Neural Fields](https://arxiv.org/abs/2211.14249) |     Implicit      | arXiv 2022 | / |
 | [GeoUDF: Surface Reconstruction from 3D Point Clouds via Geometry-guided Distance Representation](https://arxiv.org/abs/2211.16762) |     Implicit      | arXiv 2022 | [Code](https://github.com/rsy6318/GeoUDF) |
-| [ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction](https://arxiv.org/abs/2212.04096) |     Implicit      | arXiv 2022 | [Project](http://visual.ee.ucla.edu/alto.htm/) |
 | [CircNet: Meshing 3D Point Clouds with Circumcenter Detection](https://arxiv.org/abs/2301.09253) |     Mesh      | ICLR 2023 | / |
+| [ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction](https://arxiv.org/abs/2212.04096) |     Implicit      | CVPR 2023 | [Project](http://visual.ee.ucla.edu/alto.htm/) |
+| [Neural Vector Fields: Implicit Representation by Explicit Learning](https://arxiv.org/abs/2303.04341) |     Implicit      | arXiv 2023 | / |
 
 ### RGB-D
 |                            Paper                             | Representation | Publisher |                         Project/Code                         |
@@ -297,11 +305,18 @@ Table of Contents
 | [CIRCLE: Convolutional Implicit Reconstruction and Completion for Large-scale Indoor Scene](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4658_ECCV_2022_paper.php) |     Implicit      | ECCV 2022 |        [Code](https://github.com/otakuxiang/circle)        |
 | [Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera](https://arxiv.org/abs/2206.15258) |     Implicit      | NIPS 2022 |        [Project](https://ustc3dv.github.io/ndr/)        |
 | [GO-Surf: Neural Feature Grid Optimization for Fast, High-Fidelity RGB-D Surface Reconstruction](https://arxiv.org/abs/2206.14735) |     Implicit      | 3DV 2022 |        [Project](https://jingwenwang95.github.io/go_surf/)        |
-| [Multiview Compressive Coding for 3D Reconstruction](https://arxiv.org/abs/2301.08247) |     Implicit      | arXiv 2022 |        [Project](https://mcc3d.github.io/)        |
+| [FastSurf: Fast Neural RGB-D Surface Reconstruction using Per-Frame Intrinsic Refinement and TSDF Fusion Prior Learning](https://arxiv.org/abs/2303.04508) |     Implicit      | arXiv 2023 |        [Project](https://rokit-healthcare.github.io/FastSurf/)        |
+| [Multiview Compressive Coding for 3D Reconstruction](https://arxiv.org/abs/2301.08247) |     Implicit      | CVPR 2023 |        [Project](https://mcc3d.github.io/)        |
+| [MobileBrick: Building LEGO for 3D Reconstruction on Mobile Devices](https://arxiv.org/abs/2303.01932) |     Implicit      | CVPR 2023 |        [Project](https://code.active.vision/MobileBrick/)        |
+| [TMO: Textured Mesh Acquisition of Objects with a Mobile Device by using Differentiable Rendering](https://arxiv.org/abs/2303.15060) |     Mesh      | CVPR 2023 |        [Project](https://jh-choi.github.io/TMO/)        |
 
 ## Survey
 
 |                            Paper                             | Publisher  |
 | :--------------------------------------------------------------------: | :--------: |
 | [Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era](https://arxiv.org/abs/1906.06543) | TPAMI 2019 |
+| [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426) | arXiv 2021 |
+| [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) | EUROGRAPHICS 2022 |
 | [Surface Reconstruction from Point Clouds: A Survey and a Benchmark](https://arxiv.org/abs/2205.02413) | arXiv 2022 |
+| [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/abs/2210.00379) | arXiv 2022 |
+| [A Review of Deep Learning-Powered Mesh Reconstruction Methods](https://arxiv.org/abs/2303.02879) | arXiv 2023 |
