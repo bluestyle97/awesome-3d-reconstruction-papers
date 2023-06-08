@@ -306,7 +306,7 @@ Table of Contents
 | [ALTO: Alternating Latent Topologies for Implicit 3D Reconstruction](https://arxiv.org/abs/2212.04096) |     Implicit      | CVPR 2023 | [Project](http://visual.ee.ucla.edu/alto.htm/) |
 | [Octree Guided Unoriented Surface Reconstruction](https://openaccess.thecvf.com/content/CVPR2023/html/Koneputugodage_Octree_Guided_Unoriented_Surface_Reconstruction_CVPR_2023_paper.html) |     Implicit      | CVPR 2023 | [Project](https://chumbyte.github.io/OG-INR-Site/) |
 | [Unsupervised Inference of Signed Distance Functions From Single Sparse Point Clouds Without Learning Priors](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Unsupervised_Inference_of_Signed_Distance_Functions_From_Single_Sparse_Point_CVPR_2023_paper.html) |     Implicit      | CVPR 2023 | [Code](https://github.com/chenchao15/NeuralTPS) |
-| [Neural Vector Fields: Implicit Representation by Explicit Learning](https://arxiv.org/abs/2303.04341) |     Implicit      | arXiv 2023 | / |
+| [Neural Vector Fields: Implicit Representation by Explicit Learning](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Neural_Vector_Fields_Implicit_Representation_by_Explicit_Learning_CVPR_2023_paper.html) |     Implicit      | CVPR 2023 | [Code](https://github.com/Wi-sc/NVF) |
 | [StEik: Stabilizing the Optimization of Neural Signed Distance Functions and Finer Shape Representation](https://arxiv.org/abs/2305.18414) |     Implicit      | arXiv 2023 | / |
 | [Learning Signed Distance Functions from Noisy 3D Point Clouds via Noise to Noise Mapping](https://arxiv.org/abs/2306.01405) |     Implicit      | ICML 2023 | [Project](https://github.com/mabaorui/Noise2NoiseMapping/) |
 
