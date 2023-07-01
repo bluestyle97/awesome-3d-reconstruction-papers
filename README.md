@@ -193,7 +193,7 @@ Table of Contents
 | [Learning 3D Object Shape and Layout without 3D Supervision](https://openaccess.thecvf.com/content/CVPR2022/html/Gkioxari_Learning_3D_Object_Shape_and_Layout_Without_3D_Supervision_CVPR_2022_paper.html) |    Mesh    | CVPR 2022 |  [Project](https://gkioxari.github.io/usl/index.html)  |
 | [Directed Ray Distance Functions for 3D Scene Reconstruction](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620193.pdf) |    Implicit    | ECCV 2022 |  [Project](https://nileshkulkarni.github.io/scene_drdf/)  |
 | [Learning 3D Scene Priors with 2D Supervision](https://arxiv.org/abs/2211.14157) |    Mesh    | arXiv 2022 |  [Project](https://yinyunie.github.io/sceneprior-page/)  |
-| [FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction](https://arxiv.org/abs/2304.01480) |    Implicit    | arXiv 2023 |  /  |
+| [FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction](https://arxiv.org/abs/2304.01480) |    Implicit    | arXiv 2023 |  [Code](https://github.com/apple/ml-finerecon)  |
 | [CVRecon: Rethinking 3D Geometric Feature Learning For Neural Reconstruction](https://arxiv.org/abs/2304.14633) |    Implicit    | arXiv 2023 |  [Project](https://cvrecon.ziyue.cool/)  |
 | [VisFusion: Visibility-Aware Online 3D Scene Reconstruction From Videos](https://openaccess.thecvf.com/content/CVPR2023/html/Gao_VisFusion_Visibility-Aware_Online_3D_Scene_Reconstruction_From_Videos_CVPR_2023_paper.html) |    Implicit    | CVPR 2023 |  [Project](https://huiyu-gao.github.io/visfusion/)  |
 
