@@ -99,6 +99,7 @@ Table of Contents
 | [Structural Causal 3D Reconstruction](https://arxiv.org/abs/2207.10156) | Hybrid | ECCV 2022 | / |
 | [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610054.pdf) | Voxel | ECCV 2022 | / |
 | [Semi-Supervised Single-View 3D Reconstruction via Prototype Shape Priors](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610528.pdf) | Voxel | ECCV 2022 | / |
+| [Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture](https://arxiv.org/pdf/2311.00457.pdf) | Implicit | 3DV 2024 | [Code](https://github.com/DaLi-Jack/SSR-code) |
 
 ### Multi-view
 
