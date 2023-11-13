@@ -78,6 +78,7 @@ Table of Contents
 | [SDF-SRN: Learning Signed Distance 3D Object Reconstruction from Static Images](https://papers.nips.cc/paper/2020/file/83fa5a432ae55c253d0e60dbfa716723-Paper.pdf) | Implicit | NIPS 2020 | [Project](https://chenhsuanlin.bitbucket.io/signed-distance-SRN/) |
 | [UCLID-Net: Single View Reconstruction in Object Space](https://papers.nips.cc/paper/2020/hash/21327ba33b3689e713cdff1641128004-Abstract.html) | Mesh | NIPS 2020 | [Code](https://github.com/cvlab-epfl/UCLID-Net) |
 | [Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images](https://arxiv.org/abs/2006.12250) | Voxel | IJCV 2020 | [Code](https://gitlab.com/hzxie/Pix2Vox) |
+| [3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers](https://www.bmvc2021-virtualconference.com/assets/papers/1112.pdf) | Voxel | BMVC 2021 | [Code](https://github.com/FomalhautB/3D-RETR) |
 | [D2IM-Net: Learning Detail Disentangled Implicit Fields From Single Images](https://openaccess.thecvf.com/content/CVPR2021/html/Li_D2IM-Net_Learning_Detail_Disentangled_Implicit_Fields_From_Single_Images_CVPR_2021_paper.html) | Implicit | CVPR 2021 | [Code](https://github.com/ManyiLi12345/D2IM-Net) |
 | [NeRD: Neural 3D Reflection Symmetry Detector](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_NeRD_Neural_3D_Reflection_Symmetry_Detector_CVPR_2021_paper.html) | / | CVPR 2021 | [Code](https://github.com/zhou13/nerd) |
 | [Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors](https://openaccess.thecvf.com/content/CVPR2021/html/Bechtold_Fostering_Generalization_in_Single-View_3D_Reconstruction_by_Learning_a_Hierarchy_CVPR_2021_paper.html) | Implicit | CVPR 2021 | [Code](https://github.com/boschresearch/HierarchicalPriorNetworks) |
@@ -335,6 +336,7 @@ Table of Contents
 | [Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era](https://arxiv.org/abs/1906.06543) | TPAMI 2019 |
 | [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426) | arXiv 2021 |
 | [Advances in Neural Rendering](https://arxiv.org/abs/2111.05849) | EUROGRAPHICS 2022 |
+| [Three-Dimensional Reconstruction from a Single RGB Image Using Deep Learning: A Review](https://www.mdpi.com/2313-433X/8/9/225) | J. Imaging 2022 |
 | [Surface Reconstruction from Point Clouds: A Survey and a Benchmark](https://arxiv.org/abs/2205.02413) | arXiv 2022 |
 | [NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/abs/2210.00379) | arXiv 2022 |
 | [A Review of Deep Learning-Powered Mesh Reconstruction Methods](https://arxiv.org/abs/2303.02879) | arXiv 2023 |
