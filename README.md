@@ -115,6 +115,7 @@ Table of Contents
 | [Multi-view 3D Reconstruction with Transformers](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_Multi-View_3D_Reconstruction_With_Transformers_ICCV_2021_paper.html) |      Voxel      | ICCV 2021  | / |
 | [3D-C2FT: Coarse-to-fine Transformer for Multi-view 3D Reconstruction](https://arxiv.org/abs/2205.14575) |      Voxel      | ACCV 2022  | / |
 | [FvOR: Robust Joint Shape and Pose Optimization for Few-view Object Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_FvOR_Robust_Joint_Shape_and_Pose_Optimization_for_Few-View_Object_CVPR_2022_paper.html) |      Implicit      | CVPR 2022  | [Code](https://github.com/zhenpeiyang/FvOR/) |
+| [FOUND: Foot Optimisation with Uncertain Normals for Surface Deformation using Synthetic Data](https://ollieboyne.com/FOUND) | Mesh | WACV 2024 | [Code](https://github.com/OllieBoyne/FOUND) |
 
 ### Unsupervised
 |                            Paper                             | Representation | Publisher |                         Project/Code                         |
